@@ -29,4 +29,14 @@ Tools Used
    - Specflow and few other different versions of NUnit and Specflow
 7. Github - Code Repo
 
+Setup and execution
+1. Clone the project onto local
+2. Open in an IDE
+3. Download all the required packages
+4. Update the path for excel sheet location
+5. Open the test explorer 
+6. Click on run option for a quick execution
+
+Thanks.
+
 
