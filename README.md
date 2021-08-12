@@ -1,5 +1,5 @@
-                                                                        # DOT
-*-----------------------------------------------------------------------------------------------------------------------------------------------------------------*
+ # DOT                                               
+*-------------------------------------------------------------------------------------------------------------------------------------*
 Tech Exercise:
 
 Automate the page navigation from step 1 to step2 of UVP page using the following:
@@ -12,7 +12,7 @@ url-https://www.vicroads.vic.gov.au/registration/limited-use-permits/unregistere
 Test Verification- “Step 2 of 7: Select permit type” is displayed.
 
 Submit your solution by creating a new repository on BitBucket with a readme file that details -how to build, Run tests, etc. Share your repository link.
-*-----------------------------------------------------------------------------------------------------------------------------------------------------------------*
+*------------------------------------------------------------------------------------------------------------- -----------------------*
 
 Tools Used
 1. https://www.parallels.com/au/products/ - For setting up automation framework on using Mac on Windows
